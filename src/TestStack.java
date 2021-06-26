@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class TestStack {
 	public static void main(String[] args) throws Exception {	
-		System.out.println("----------------------STACK--------------------");
+		System.out.println("---------------------STACK--------------------");
 		Stack<Integer> s = new Stack<Integer>();
                 Stack<Integer> s1 = new Stack<Integer>();
 		s.push(6);
